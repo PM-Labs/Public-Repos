@@ -1,0 +1,8 @@
+node_modules
+build/
+.DS_Store
+.clasp*.json
+*.tgz
+.vscode
+.env
+bigquery/.install.conf
